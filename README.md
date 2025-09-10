@@ -1,6 +1,5 @@
 #ChessGame
 <br>
-![chess_github](https://github.com/user-attachments/assets/79b935cc-3784-4af9-91c0-822e0a298963)
 Welcome to my Chess Game project!
 <br>
 As a passionate chess enthusiast, I recently found myself drawn deeper into the game. Inspired by the strategic complexities and timeless appeal of chess, I’ve decided to challenge myself by building a fully functional chess game using Python.
@@ -25,6 +24,12 @@ This chess game will feature:
 -->Customizable Features: Future additions may include multiplayer mode, AI opponents, and enhanced visuals.
 <br>
 <br>
+#Screenshots 
+
+<img width="2879" height="1576" alt="Screenshot 2025-09-11 010025" src="https://github.com/user-attachments/assets/44bfa802-0dc5-4aa8-ba2c-c0d9c2bad9b8" />
+
+<img width="2879" height="1572" alt="Screenshot 2025-09-11 010109" src="https://github.com/user-attachments/assets/14d5a8b0-70a8-413c-a540-5ad15b0fa852" />
+
 #Technologies Used
 <br>
 Language: Python
@@ -57,9 +62,4 @@ Author
 Devansh Kaushik
 <br>
 [LinkedIn](https://www.linkedin.com/in/devanshkaushik09/) | [Instagram](https://www.instagram.com/is.that.devansh/)
-<br>
-
-Date Started
-<br>
-August 16, 2024
 <br>
